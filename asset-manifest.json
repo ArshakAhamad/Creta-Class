@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creta-class/static/css/main.e7b4392a.css",
+    "main.js": "/creta-class/static/js/main.d37dcd64.js",
+    "static/js/453.8ab44547.chunk.js": "/creta-class/static/js/453.8ab44547.chunk.js",
+    "index.html": "/creta-class/index.html",
+    "main.e7b4392a.css.map": "/creta-class/static/css/main.e7b4392a.css.map",
+    "main.d37dcd64.js.map": "/creta-class/static/js/main.d37dcd64.js.map",
+    "453.8ab44547.chunk.js.map": "/creta-class/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b4392a.css",
+    "static/js/main.d37dcd64.js"
+  ]
+}
