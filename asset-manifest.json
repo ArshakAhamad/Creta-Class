@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Creta-Class/static/css/main.e7b4392a.css",
-    "main.js": "/Creta-Class/static/js/main.4e797f39.js",
-    "static/js/453.8ab44547.chunk.js": "/Creta-Class/static/js/453.8ab44547.chunk.js",
-    "index.html": "/Creta-Class/index.html",
-    "main.e7b4392a.css.map": "/Creta-Class/static/css/main.e7b4392a.css.map",
-    "main.4e797f39.js.map": "/Creta-Class/static/js/main.4e797f39.js.map",
-    "453.8ab44547.chunk.js.map": "/Creta-Class/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/frontend/static/css/main.e7b4392a.css",
+    "main.js": "/frontend/static/js/main.dfe501eb.js",
+    "static/js/453.8ab44547.chunk.js": "/frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/frontend/index.html",
+    "main.e7b4392a.css.map": "/frontend/static/css/main.e7b4392a.css.map",
+    "main.dfe501eb.js.map": "/frontend/static/js/main.dfe501eb.js.map",
+    "453.8ab44547.chunk.js.map": "/frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b4392a.css",
-    "static/js/main.4e797f39.js"
+    "static/js/main.dfe501eb.js"
   ]
 }
